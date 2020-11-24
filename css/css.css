@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+.row{
+    display: flex;
+    flex-direction:row; 
+}
+.col1{
+    width: 60%;
+    height: auto;
+}
+.col2{
+    width: 20%;
+    padding-right: 20%;
+    padding-left: 10px;
+    background-color: white;
+    height: auto;
+}
+h1{
+    color: rgb(32, 49, 100);
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    line-height: 1.5em;
+    font-size: 18px;
+}   
+.image{
+    margin: 5px;
+    margin-right: 0;
+    border-radius: 5px;
+    position: relative;
+}
+.image1{
+    margin: 5px;
+    margin-right: 0;
+    border-radius: 5px;
+    position: relative;
+}
