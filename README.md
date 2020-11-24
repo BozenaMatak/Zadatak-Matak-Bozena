@@ -1,2 +1,2 @@
-# Zadatak-Matak-Bo-ena
+# Zadatak-Matak-Bozena
 Zadatak
